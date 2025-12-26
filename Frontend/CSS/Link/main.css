@@ -1,0 +1,24 @@
+ /* 1- CSS Link style */
+a {
+    color: rgb(67, 12, 231);  
+}
+
+a:link {
+  color: rgb(16, 239, 87);
+}
+
+.link {
+    text-align: center;
+}
+
+a:active {
+    color: rgb(11, 10, 10);
+}
+
+a:visited{
+    color: rgb(241, 10, 37);
+    text-decoration: underline;
+}
+a:hover {
+    color: rgb(167, 37, 228)
+}
